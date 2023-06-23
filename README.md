@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjROhIT1312
-- 👀 I’m interested in FrontEnd Technologies
+- 👀 I’m interested in BackEnd Technologies
 - 🌱 I’m currently learning Node.js, just trying to jumping on Backend
 - 💞️ I’m looking for Fresher Devloper Role Job.
 - 📫 How to reach me +91-8081009886 or rj131298@gmail.com
